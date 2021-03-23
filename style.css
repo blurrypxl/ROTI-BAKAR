@@ -1,0 +1,39 @@
+.bgPrimary {
+    background-color: #201F36;
+}
+
+.colorPrimary {
+    color: white;
+}
+
+.bgJumbo {
+    background-color: rgb(221, 221, 221);
+}
+
+.img-hero {
+    background-image: url("hero-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: inherit;
+    background-position: center;
+}
+
+.jumbotron {
+    height: 500px;
+}
+
+.container-fluid {
+    background-color: rgba(138, 133, 133, 0.404);
+    position: relative;
+    top: 25%;
+    padding: 20px;
+}
+
+.btn {
+    border: none;
+}
+
+.btn:hover {
+    border: none;
+    background-color: #312f4b;
+}
