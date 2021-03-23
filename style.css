@@ -52,3 +52,9 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.tinggiFooter {
+    position: relative;
+    bottom: 100%;
+    height: 100px;
+}
